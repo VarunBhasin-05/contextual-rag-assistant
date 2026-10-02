@@ -56,9 +56,8 @@ Structured Response + Page-Level Citations (Source, Page, Snippet)
 
 
 
-🛠️ Installation & Setup Guide
+## 🛠️ Installation & Setup Guide
 
----
 
 1. Prerequisites:
 
@@ -158,9 +157,8 @@ Structured Response + Page-Level Citations (Source, Page, Snippet)
 
 ---
 
-📡 API Endpoints
+## 📡 API Endpoints
 
----
 
 
 
